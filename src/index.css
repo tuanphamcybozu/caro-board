@@ -1,0 +1,14 @@
+body {
+    color: green;
+}
+
+#board {
+    background-color: aquamarine;
+    /*width: 50px !important;*/
+}
+
+.square_btn {
+    background-color: red;
+    width: 30px;
+    height: 30px;
+}
